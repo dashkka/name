@@ -1,0 +1,17 @@
+C:\Users\Asus-pro\source\repos\IDZ_szi\IDZ_szi\bin\Debug\IDZ_szi.exe.config
+C:\Users\Asus-pro\source\repos\IDZ_szi\IDZ_szi\bin\Debug\IDZ_szi.exe
+C:\Users\Asus-pro\source\repos\IDZ_szi\IDZ_szi\bin\Debug\IDZ_szi.pdb
+C:\Users\Asus-pro\source\repos\IDZ_szi\IDZ_szi\obj\Debug\IDZ_szi.csproj.AssemblyReference.cache
+C:\Users\Asus-pro\source\repos\IDZ_szi\IDZ_szi\obj\Debug\IDZ_szi.csproj.SuggestedBindingRedirects.cache
+C:\Users\Asus-pro\source\repos\IDZ_szi\IDZ_szi\obj\Debug\IDZ_szi.Properties.Resources.resources
+C:\Users\Asus-pro\source\repos\IDZ_szi\IDZ_szi\obj\Debug\IDZ_szi.csproj.GenerateResource.cache
+C:\Users\Asus-pro\source\repos\IDZ_szi\IDZ_szi\obj\Debug\IDZ_szi.csproj.CoreCompileInputs.cache
+C:\Users\Asus-pro\source\repos\IDZ_szi\IDZ_szi\obj\Debug\IDZ_szi.exe
+C:\Users\Asus-pro\source\repos\IDZ_szi\IDZ_szi\obj\Debug\IDZ_szi.pdb
+C:\Users\Asus-pro\source\repos\IDZ_szi\IDZ_szi\obj\Debug\IDZ_szi.Admin.resources
+C:\Users\Asus-pro\source\repos\IDZ_szi\IDZ_szi\obj\Debug\IDZ_szi.Employee.resources
+C:\Users\Asus-pro\source\repos\IDZ_szi\IDZ_szi\obj\Debug\IDZ_szi.Input.resources
+C:\Users\Asus-pro\source\repos\IDZ_szi\IDZ_szi\obj\Debug\IDZ_szi.Moderator.resources
+C:\Users\Asus-pro\source\repos\IDZ_szi\IDZ_szi\obj\Debug\IDZ_szi.Operator.resources
+C:\Users\Asus-pro\source\repos\IDZ_szi\IDZ_szi\obj\Debug\IDZ_szi.SZI.resources
+C:\Users\Asus-pro\source\repos\IDZ_szi\IDZ_szi\obj\Debug\IDZ_szi.Complex.resources

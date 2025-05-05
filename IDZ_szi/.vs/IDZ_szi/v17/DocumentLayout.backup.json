@@ -1,0 +1,195 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Asus-pro\\Downloads\\2\\2\\1 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\1 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u042F\u0437\u044B\u043A\u0438 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u044F\\IDZ_szi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7F48B74C-981C-4365-8657-F014A9CDE3A9}|IDZ_szi\\IDZ_szi.csproj|c:\\users\\asus-pro\\downloads\\2\\2\\1 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\1 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u044F\u0437\u044B\u043A\u0438 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u044F\\idz_szi\\idz_szi\\idzdataset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F48B74C-981C-4365-8657-F014A9CDE3A9}|IDZ_szi\\IDZ_szi.csproj|solutionrelative:idz_szi\\idzdataset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F48B74C-981C-4365-8657-F014A9CDE3A9}|IDZ_szi\\IDZ_szi.csproj|c:\\users\\asus-pro\\downloads\\2\\2\\1 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\1 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u044F\u0437\u044B\u043A\u0438 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u044F\\idz_szi\\idz_szi\\gradientpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F48B74C-981C-4365-8657-F014A9CDE3A9}|IDZ_szi\\IDZ_szi.csproj|solutionrelative:idz_szi\\gradientpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F48B74C-981C-4365-8657-F014A9CDE3A9}|IDZ_szi\\IDZ_szi.csproj|C:\\Users\\Asus-pro\\Downloads\\2\\2\\1 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\1 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u042F\u0437\u044B\u043A\u0438 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u044F\\IDZ_szi\\idz_szi\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F48B74C-981C-4365-8657-F014A9CDE3A9}|IDZ_szi\\IDZ_szi.csproj|solutionrelative:idz_szi\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F48B74C-981C-4365-8657-F014A9CDE3A9}|IDZ_szi\\IDZ_szi.csproj|c:\\users\\asus-pro\\downloads\\2\\2\\1 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\1 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u044F\u0437\u044B\u043A\u0438 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u044F\\idz_szi\\idz_szi\\complex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F48B74C-981C-4365-8657-F014A9CDE3A9}|IDZ_szi\\IDZ_szi.csproj|solutionrelative:idz_szi\\complex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F48B74C-981C-4365-8657-F014A9CDE3A9}|IDZ_szi\\IDZ_szi.csproj|C:\\Users\\Asus-pro\\Downloads\\2\\2\\1 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\1 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u042F\u0437\u044B\u043A\u0438 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u044F\\IDZ_szi\\idz_szi\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F48B74C-981C-4365-8657-F014A9CDE3A9}|IDZ_szi\\IDZ_szi.csproj|solutionrelative:idz_szi\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F48B74C-981C-4365-8657-F014A9CDE3A9}|IDZ_szi\\IDZ_szi.csproj|c:\\users\\asus-pro\\downloads\\2\\2\\1 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\1 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u044F\u0437\u044B\u043A\u0438 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u044F\\idz_szi\\idz_szi\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7F48B74C-981C-4365-8657-F014A9CDE3A9}|IDZ_szi\\IDZ_szi.csproj|solutionrelative:idz_szi\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Asus-pro\\Downloads\\2\\2\\1 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\1 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u042F\u0437\u044B\u043A\u0438 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u044F\\IDZ_szi\\idz_szi\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:idz_szi\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F48B74C-981C-4365-8657-F014A9CDE3A9}|IDZ_szi\\IDZ_szi.csproj|C:\\Users\\Asus-pro\\Downloads\\2\\2\\1 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\1 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u042F\u0437\u044B\u043A\u0438 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u044F\\IDZ_szi\\idz_szi\\input.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7F48B74C-981C-4365-8657-F014A9CDE3A9}|IDZ_szi\\IDZ_szi.csproj|solutionrelative:idz_szi\\input.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F48B74C-981C-4365-8657-F014A9CDE3A9}|IDZ_szi\\IDZ_szi.csproj|C:\\Users\\Asus-pro\\Downloads\\2\\2\\1 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\1 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u042F\u0437\u044B\u043A\u0438 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u044F\\IDZ_szi\\idz_szi\\input.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F48B74C-981C-4365-8657-F014A9CDE3A9}|IDZ_szi\\IDZ_szi.csproj|solutionrelative:idz_szi\\input.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F48B74C-981C-4365-8657-F014A9CDE3A9}|IDZ_szi\\IDZ_szi.csproj|C:\\Users\\Asus-pro\\Downloads\\2\\2\\1 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\1 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u042F\u0437\u044B\u043A\u0438 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u044F\\IDZ_szi\\idz_szi\\complex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7F48B74C-981C-4365-8657-F014A9CDE3A9}|IDZ_szi\\IDZ_szi.csproj|solutionrelative:idz_szi\\complex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IDZDataSet.cs",
+              "DocumentMoniker": "C:\\Users\\Asus-pro\\Downloads\\2\\2\\1 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\1 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u042F\u0437\u044B\u043A\u0438 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u044F\\IDZ_szi\\IDZ_szi\\IDZDataSet.cs",
+              "RelativeDocumentMoniker": "IDZ_szi\\IDZDataSet.cs",
+              "ToolTip": "C:\\Users\\Asus-pro\\Downloads\\2\\2\\1 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\1 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u042F\u0437\u044B\u043A\u0438 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u044F\\IDZ_szi\\IDZ_szi\\IDZDataSet.cs*",
+              "RelativeToolTip": "IDZ_szi\\IDZDataSet.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T17:12:38.466Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GradientPanel.cs",
+              "DocumentMoniker": "C:\\Users\\Asus-pro\\Downloads\\2\\2\\1 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\1 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u042F\u0437\u044B\u043A\u0438 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u044F\\IDZ_szi\\IDZ_szi\\GradientPanel.cs",
+              "RelativeDocumentMoniker": "IDZ_szi\\GradientPanel.cs",
+              "ToolTip": "C:\\Users\\Asus-pro\\Downloads\\2\\2\\1 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\1 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u042F\u0437\u044B\u043A\u0438 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u044F\\IDZ_szi\\IDZ_szi\\GradientPanel.cs*",
+              "RelativeToolTip": "IDZ_szi\\GradientPanel.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T17:12:21.099Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Complex.cs",
+              "DocumentMoniker": "C:\\Users\\Asus-pro\\Downloads\\2\\2\\1 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\1 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u042F\u0437\u044B\u043A\u0438 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u044F\\IDZ_szi\\IDZ_szi\\Complex.cs",
+              "RelativeDocumentMoniker": "IDZ_szi\\Complex.cs",
+              "ToolTip": "C:\\Users\\Asus-pro\\Downloads\\2\\2\\1 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\1 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u042F\u0437\u044B\u043A\u0438 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u044F\\IDZ_szi\\IDZ_szi\\Complex.cs*",
+              "RelativeToolTip": "IDZ_szi\\Complex.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T17:11:57.742Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Input.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\Asus-pro\\Downloads\\2\\2\\1 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\1 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u042F\u0437\u044B\u043A\u0438 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u044F\\IDZ_szi\\IDZ_szi\\Input.cs",
+              "RelativeDocumentMoniker": "IDZ_szi\\Input.cs",
+              "ToolTip": "C:\\Users\\Asus-pro\\source\\repos\\IDZ_szi\\IDZ_szi\\Input.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\source\\repos\\IDZ_szi\\IDZ_szi\\Input.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2025-05-01T17:10:46.804Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Input.cs",
+              "DocumentMoniker": "C:\\Users\\Asus-pro\\Downloads\\2\\2\\1 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\1 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u042F\u0437\u044B\u043A\u0438 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u044F\\IDZ_szi\\IDZ_szi\\Input.cs",
+              "RelativeDocumentMoniker": "IDZ_szi\\Input.cs",
+              "ToolTip": "C:\\Users\\Asus-pro\\Downloads\\2\\2\\1 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\1 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u042F\u0437\u044B\u043A\u0438 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u044F\\IDZ_szi\\IDZ_szi\\Input.cs",
+              "RelativeToolTip": "IDZ_szi\\Input.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAAwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2025-05-01T17:10:46.987Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\Asus-pro\\Downloads\\2\\2\\1 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\1 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u042F\u0437\u044B\u043A\u0438 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u044F\\IDZ_szi\\IDZ_szi\\Form1.cs",
+              "RelativeDocumentMoniker": "IDZ_szi\\Form1.cs",
+              "ToolTip": "C:\\Users\\Asus-pro\\source\\repos\\IDZ_szi\\IDZ_szi\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\source\\repos\\IDZ_szi\\IDZ_szi\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T17:10:47.04Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Admin.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\Asus-pro\\Downloads\\2\\2\\1 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\1 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u042F\u0437\u044B\u043A\u0438 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u044F\\IDZ_szi\\IDZ_szi\\Admin.cs",
+              "RelativeDocumentMoniker": "IDZ_szi\\Admin.cs",
+              "ToolTip": "C:\\Users\\Asus-pro\\Downloads\\2\\2\\1 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\1 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u042F\u0437\u044B\u043A\u0438 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u044F\\IDZ_szi\\IDZ_szi\\Admin.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]*",
+              "RelativeToolTip": "IDZ_szi\\Admin.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T17:10:47.187Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Complex.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\Asus-pro\\Downloads\\2\\2\\1 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\1 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u042F\u0437\u044B\u043A\u0438 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u044F\\IDZ_szi\\IDZ_szi\\Complex.cs",
+              "RelativeDocumentMoniker": "IDZ_szi\\Complex.cs",
+              "ToolTip": "C:\\Users\\Asus-pro\\Downloads\\2\\2\\1 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\1 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u042F\u0437\u044B\u043A\u0438 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u044F\\IDZ_szi\\IDZ_szi\\Complex.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]*",
+              "RelativeToolTip": "IDZ_szi\\Complex.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T17:10:47.209Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\Asus-pro\\Downloads\\2\\2\\1 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\1 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u042F\u0437\u044B\u043A\u0438 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u044F\\IDZ_szi\\IDZ_szi\\Employee.cs",
+              "RelativeDocumentMoniker": "IDZ_szi\\Employee.cs",
+              "ToolTip": "C:\\Users\\Asus-pro\\Downloads\\2\\2\\1 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\1 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u042F\u0437\u044B\u043A\u0438 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u044F\\IDZ_szi\\IDZ_szi\\Employee.cs*",
+              "RelativeToolTip": "IDZ_szi\\Employee.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T17:10:47.211Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Admin.cs",
+              "DocumentMoniker": "C:\\Users\\Asus-pro\\Downloads\\2\\2\\1 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\1 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u042F\u0437\u044B\u043A\u0438 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u044F\\IDZ_szi\\IDZ_szi\\Admin.cs",
+              "RelativeDocumentMoniker": "IDZ_szi\\Admin.cs",
+              "ToolTip": "C:\\Users\\Asus-pro\\Downloads\\2\\2\\1 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\1 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u042F\u0437\u044B\u043A\u0438 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u044F\\IDZ_szi\\IDZ_szi\\Admin.cs*",
+              "RelativeToolTip": "IDZ_szi\\Admin.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T17:10:47.212Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
