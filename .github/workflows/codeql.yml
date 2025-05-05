@@ -26,10 +26,12 @@ jobs:
       id: find-sln
       shell: bash
       run: |
-        # Ищем первый .sln файл в репозитории
         sln_file=$(find . -name "*.sln" -print -quit)
         echo "Found solution file: $sln_file"
         echo "sln_path=${sln_file#./}" >> $GITHUB_OUTPUT
+      
+    - name: Setup MSBuild
+      uses: microsoft/setup-msbuild@v1
       
     - name: Setup .NET
       uses: actions/setup-dotnet@v3
@@ -52,4 +54,4 @@ jobs:
         
     - name: Build solution
       run: |
-        msbuild "${{ steps.find-sln.outputs.sln_path }}" /p:Configuration=Release /p:Platform="Any CPU" /t:Rebuild
+        msbuild "${{ steps.find-sln.outputs.sln_path }}" /p:Configuration=Release /p:Platform="Any CPU" /t:Rebuild /p:RestorePackages=false
