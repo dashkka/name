@@ -6,12 +6,12 @@ on:
   pull_request:
     branches: [ "main" ]
   schedule:
-    - cron: '0 3 * * 0' # Еженедельно в воскресенье в 3:00 UTC
+    - cron: '0 3 * * 0'
 
 jobs:
   analyze:
     name: Analyze C#
-    runs-on: windows-latest # Обязательно для .NET Framework проектов
+    runs-on: windows-latest
     
     permissions:
       security-events: write
@@ -22,6 +22,15 @@ jobs:
     - name: Checkout repository
       uses: actions/checkout@v4
       
+    - name: Find Solution file
+      id: find-sln
+      shell: bash
+      run: |
+        # Ищем первый .sln файл в репозитории
+        sln_file=$(find . -name "*.sln" -print -quit)
+        echo "Found solution file: $sln_file"
+        echo "sln_path=${sln_file#./}" >> $GITHUB_OUTPUT
+      
     - name: Setup .NET
       uses: actions/setup-dotnet@v3
       with:
@@ -31,7 +40,8 @@ jobs:
           8.0.x
           
     - name: Restore NuGet packages
-      run: nuget restore YourSolution.sln || dotnet restore YourSolution.sln
+      run: |
+        nuget restore "${{ steps.find-sln.outputs.sln_path }}" || dotnet restore "${{ steps.find-sln.outputs.sln_path }}"
 
     - name: Initialize CodeQL
       uses: github/codeql-action/init@v3
@@ -40,6 +50,6 @@ jobs:
         build-mode: manual
         queries: security-extended,security-and-quality
         
-    - name: Build solution (CodeQL requirement)
+    - name: Build solution
       run: |
-        msbuild YourSolution.sln /p:Configuration=Release /p:Platform="Any CPU" /t:Rebuild /p:RestorePackages=false /p:DeployOnBuild=true /p:Deploy
+        msbuild "${{ steps.find-sln.outputs.sln_path }}" /p:Configuration=Release /p:Platform="Any CPU" /t:Rebuild
