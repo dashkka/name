@@ -1,0 +1,45 @@
+name: "CodeQL Advanced - C# (Windows)"
+
+on:
+  push:
+    branches: [ "main" ]
+  pull_request:
+    branches: [ "main" ]
+  schedule:
+    - cron: '0 3 * * 0' # Еженедельно в воскресенье в 3:00 UTC
+
+jobs:
+  analyze:
+    name: Analyze C#
+    runs-on: windows-latest # Обязательно для .NET Framework проектов
+    
+    permissions:
+      security-events: write
+      contents: read
+      actions: read
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+      
+    - name: Setup .NET
+      uses: actions/setup-dotnet@v3
+      with:
+        dotnet-version: |
+          6.0.x
+          7.0.x
+          8.0.x
+          
+    - name: Restore NuGet packages
+      run: nuget restore YourSolution.sln || dotnet restore YourSolution.sln
+
+    - name: Initialize CodeQL
+      uses: github/codeql-action/init@v3
+      with:
+        languages: csharp
+        build-mode: manual
+        queries: security-extended,security-and-quality
+        
+    - name: Build solution (CodeQL requirement)
+      run: |
+        msbuild YourSolution.sln /p:Configuration=Release /p:Platform="Any CPU" /t:Rebuild /p:RestorePackages=false /p:DeployOnBuild=true /p:Deploy
